@@ -1,0 +1,1804 @@
+{
+  "content": [
+    {
+      "path": "Business.json",
+      "size": 122,
+      "date": 132399161780000000
+    },
+    {
+      "path": "ContentInfo/SalesforceTower/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399161780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 305,
+      "date": 132466009862570463
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 32255918,
+      "date": 132466009861770079
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00000-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976568967769
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00000-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976568877733
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00001-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976652737037
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00001-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976652656907
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00002-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976637537156
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00002-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976637467085
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00003-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976572767490
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00003-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976572677475
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00004-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976647347087
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00004-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976647267013
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00005-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976560531707
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00005-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976560451926
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00006-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976574647559
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00006-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976574567313
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00007-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976641337350
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00007-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976641247241
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00008-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976614637228
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00008-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976614557189
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00009-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976599637189
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00009-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976599557108
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00010-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976607287251
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00010-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976607207464
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00011-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976618367150
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00011-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976618292301
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00012-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976621347271
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00012-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976621257179
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00013-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976589437252
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00013-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976589357119
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00014-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976607917210
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00014-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976607847101
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00015-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976600517518
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00015-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976600437438
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00016-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976593676987
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00016-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976593597358
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00017-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976623317413
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00017-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976623247343
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00018-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976644017250
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00018-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976643927231
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00019-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976564993264
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00019-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976564918247
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00020-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976618697535
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00020-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976618617244
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00021-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976607597406
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00021-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976607507201
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00022-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976589887138
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00022-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976589797526
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00023-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976621647384
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00023-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976621567230
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00024-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976600977022
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00024-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976600892197
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00025-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976608247212
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00025-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976608167070
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00026-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976624017532
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00026-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976623937457
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00027-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976594637181
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00027-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976594547120
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00028-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976565308368
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00028-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976565228332
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00029-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976644797560
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00029-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976644717261
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00030-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976653037019
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00030-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976652956940
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00031-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976569398098
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00031-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976569307923
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00032-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976573877430
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00032-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976573777445
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00033-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976637857163
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00033-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976637777058
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00034-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976560980505
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00034-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976560890745
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00035-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976647667143
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00035-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976647587068
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00036-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976641637165
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00036-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976641567055
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00037-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976575327365
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00037-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976575237245
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00038-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976600077039
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00038-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976599997389
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00039-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976615797303
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00039-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976615607125
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00040-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976603357118
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00040-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976603277024
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00041-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976618997523
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00041-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976618927235
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00042-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976622597588
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00042-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976622517395
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00045-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976598557367
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00045-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976598477276
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00046-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976591507351
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00046-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976591427298
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00047-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976625727452
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00047-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976625647308
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00048-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976646586961
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00048-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976646497344
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00049-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976558935975
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00049-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976558846216
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00056-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976577267108
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00056-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976577177044
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00057-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976639897245
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00057-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976639827433
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00058-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976608897376
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00058-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976608727204
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00059-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976601257071
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00059-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976601192193
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00063-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976636197400
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00063-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976636117139
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00064-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976566358055
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00064-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976566267964
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00065-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976645867008
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00065-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976645776990
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00066-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976640567010
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00066-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976640476962
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00067-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976577592328
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00067-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976577517251
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00075-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976613357349
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00075-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976613267254
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00076-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976626397668
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00076-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976626317450
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00077-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976591917270
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00077-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976591827286
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00078-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976559963227
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00078-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976559873467
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00079-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976647027172
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00079-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976646947115
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00082-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976603677134
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00082-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976603607321
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00083-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976619427279
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00083-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976619347182
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00085-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976626837398
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00085-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976626757281
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00086-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976613667336
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00086-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976613587257
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00093-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976650407097
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00093-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976650297270
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00094-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976578157119
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00094-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976578067020
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00095-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976640892215
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00095-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976640817220
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00096-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976646166981
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00096-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976646076922
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00097-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976567428127
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00097-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976567338034
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00098-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976592917342
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00098-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976592837225
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00099-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976622927345
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00099-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976622847284
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00100-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976616656933
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00100-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976616576898
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00104-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976601917291
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00104-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976601837259
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00105-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976609407191
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00105-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976609327135
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00107-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976595297449
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00107-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976595207265
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00108-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976562638314
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00108-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976562558187
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00109-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976642307291
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00109-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976642227169
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00110-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976652246974
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00110-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976652166888
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00111-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976567847899
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00111-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976567757817
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00112-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976571797673
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00112-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976571717436
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00113-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976636856998
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00113-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976636776937
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00114-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976562328565
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00114-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976562248416
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00117-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976575617422
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00117-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976575537354
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00118-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976597447321
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00118-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976597377186
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00120-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976568298165
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00120-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976568217926
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00122-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976637147365
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00122-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976637077261
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00127-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976641967095
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00127-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976641897411
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00129-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976597767171
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00129-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976597697563
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00130-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976606277570
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00130-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976606207758
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00131-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976617767128
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00131-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976617687031
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00132-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976620407334
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00132-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976620327259
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00133-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976588967071
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00133-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976588892216
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00134-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976610517200
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00134-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976610337159
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00137-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976624307555
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00137-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976624237514
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00139-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976563698638
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00139-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976563618436
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00140-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976650907140
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00140-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976650817164
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00141-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976570427701
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00141-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976570337695
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00151-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976604941145
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00151-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976604851386
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00152-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976587917231
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00152-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976587837120
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00154-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976596377110
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00154-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976596292277
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00155-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976611887334
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00155-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976611807547
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00159-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976648697452
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00159-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976648617232
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00163-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976588657083
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00163-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976588497408
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00164-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976612337315
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00164-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976612247238
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00168-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976649747037
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00168-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976649647026
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00169-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976562028496
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00169-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976561938482
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00170-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976571497523
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00170-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976571407555
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00171-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976651376922
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00171-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976651292093
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00174-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976643387066
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00174-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976643307279
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00175-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976564038605
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00175-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976563948493
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00177-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976638507224
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00177-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976638417205
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00178-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976611247062
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00178-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976611166989
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00179-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976602927236
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00179-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976602837222
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00180-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976574327683
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00180-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976574257531
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00184-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976639587549
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00184-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976639497949
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00185-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976576667403
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00185-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976576587343
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00186-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976564688067
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00186-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976564598439
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00187-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976643707237
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00187-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976643627182
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00193-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976605988345
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00193-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976605888613
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00194-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976624757452
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00194-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976624667417
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00195-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976590537304
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00195-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976590457224
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00196-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976596807306
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00196-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976596727268
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00197-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976612907377
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00197-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976612837235
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00200-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976557709257
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00200-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976557629473
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00201-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976657881420
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00201-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976657801635
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00202-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976659207874
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00202-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976659118111
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00210-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976585091874
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00210-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976584916862
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00211-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976635117123
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00211-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976635046994
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00212-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976627657240
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00212-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976627567204
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00215-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976583086506
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00215-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976582996938
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00216-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976587336906
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00216-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976587256832
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00217-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976630556805
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00217-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976630466802
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00228-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976557041045
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00228-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976556961260
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00229-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976655806971
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00229-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976655737158
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00230-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976658529688
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00230-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976658439927
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00231-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976558038376
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00231-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976557958590
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00232-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976551745214
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00232-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976551665428
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00238-TEXTURE.PNG.DDS",
+      "size": 349672,
+      "date": 132465976579266989
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00238-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976579166988
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00239-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976633557133
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00239-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976633487027
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00240-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976583716788
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00240-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976583636703
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00245-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976580576962
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00245-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976580497316
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00249-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976554856889
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00249-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976554767130
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00250-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976558507123
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00250-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976558427338
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00251-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976656505102
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00251-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976656415344
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00253-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976552403453
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00253-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976552313693
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00254-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976653367161
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00254-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976653287090
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00255-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976555943980
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00255-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976555864194
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00256-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976553480571
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00256-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976553400785
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00257-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976659697796
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00257-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976659607593
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00258-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976632427184
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00258-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976632347095
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00259-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976581566619
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00259-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976581491759
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00260-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976657442595
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00260-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976657362809
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00262-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976553061692
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00262-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976552971933
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00264-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976556592246
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00264-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976556502487
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00265-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976654077144
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00265-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976653987105
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00266-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976660107682
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00266-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976660027597
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00267-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976554158757
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00267-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976554078973
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00268-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976582076570
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00268-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976581991743
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00269-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976633227208
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00269-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976633147182
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00272-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976585726878
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00272-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976585646741
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00273-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976628417461
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00273-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976628327394
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00274-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976579557033
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00274-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976579492155
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00275-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976634177065
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00275-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976634097431
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00276-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976631506965
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00276-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976631426906
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00277-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976586436888
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00277-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976586366758
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00278-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976555285743
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00278-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976555205957
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00279-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976656195930
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00279-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976656106172
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00280-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976628857459
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00280-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976628777338
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00281-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976586136841
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00281-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976586046809
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00282-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976584346727
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00282-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976584266592
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00283-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976635867023
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00283-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976635786946
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00284-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976586897100
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00284-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976586816913
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00285-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132465976632127129
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00285-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976632057002
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00286-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132465976634827107
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00286-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976634727058
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00287-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132465976580997126
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SALESFORCETOWER-00287-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132465976580916940
+    },
+    {
+      "path": "scenery/world/scenery/SalesforceTowerSCN.bgl",
+      "size": 156,
+      "date": 132466058641427803
+    },
+    {
+      "path": "scenery/world/scenery/SALESFORCETOWERSHP.BGL",
+      "size": 959,
+      "date": 132466058641527529
+    }
+  ]
+}
